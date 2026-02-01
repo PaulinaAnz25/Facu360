@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ubicación de Espacios - FII</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+  <div class="header-contenido">
+    
+    <div class="logo izquierda">
+      <img src="assets/logo-ug.png" alt="Logo Universidad de Guayaquil">
+    </div>
+
+    <div class="header-texto">
+      <h1>Aplicativo de Ubicación de Espacios</h1>
+      <h2>Facultad de Ingeniería Industrial</h2>
+      <p>
+        Seleccione un espacio para conocer su ubicación dentro de la facultad.
+      </p>
+    </div>
+
+    <div class="logo derecha">
+      <img src="assets/logo-fii.png" alt="Logo Facultad de Ingeniería Industrial">
+    </div>
+
+  </div>
+</header>
+
+  <main>
+
+    <section class="busqueda">
+      <label for="selector-edificio">Seleccione edificio:</label>
+      <select id="selector-edificio">
+        <option value="">-- Seleccione un edificio --</option>
+        <option value="Edificio 1 (Telemática y Sistemas)">
+          Edificio 1 (Telemática y Sistemas)
+        </option>
+        <option value="Edificio 2 (Industrial)">
+          Edificio 2 (Industrial)
+        </option>
+      </select>
+
+      <br><br>
+
+      <label for="selector-espacios">Seleccione espacio:</label>
+      <select id="selector-espacios" disabled>
+        <option value="">-- Seleccione un espacio --</option>
+      </select>
+    </section>
+
+    <section class="resultado" id="resultado">
+      <p class="mensaje-inicial">
+        La información del espacio seleccionado aparecerá aquí.
+      </p>
+    </section>
+
+    <section class="plano">
+      <h3>Plano general de la facultad</h3>
+      <img src="assets/plano-general.png" alt="Plano general de la Facultad de Ingeniería Industrial">
+    </section>
+
+  </main>
+
+  <footer>
+    <p>Proyecto académico - Sistemas de Información</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

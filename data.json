@@ -1,0 +1,594 @@
+{
+  "espacios": [
+    {
+      "id": "decanato",
+      "nombre": "Decanato",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "A",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "secretaria_general",
+      "nombre": "Secretaría General",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "A",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "vicedecanato",
+      "nombre": "Vicedecanato",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "A",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "departamento_doctorado",
+      "nombre": "Departamento de Doctorado",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "A",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "administracion",
+      "nombre": "Administración",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "A",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "direccion_ing_industrial",
+      "nombre": "Dirección de Ingeniería Industrial",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "A",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "talento_humano",
+      "nombre": "Talento Humano",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "A",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "sala_profesores_industrial",
+      "nombre": "Sala de Profesores Industrial",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "A",
+      "tipo": "Área académica"
+    },
+    {
+      "id": "lab_esp_14b_001",
+      "nombre": "Laboratorio ESP 14B-001",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "B",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "auditorio_14b_201",
+      "nombre": "Auditorio 14B-201",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "B",
+      "tipo": "Auditorio"
+    },
+    {
+      "id": "coordinacion_nivelacion",
+      "nombre": "Coordinación de Nivelación",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "B",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "lab_esp_14b_002",
+      "nombre": "Laboratorio ESP 14B-002",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "B",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "lab_arduino",
+      "nombre": "Laboratorio de Arduino",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "aula_14c_001",
+      "nombre": "Aula 14C-001",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14c_002",
+      "nombre": "Aula 14C-002",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14c_003",
+      "nombre": "Aula 14C-003",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14c_004",
+      "nombre": "Aula 14C-004",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14c_005",
+      "nombre": "Aula 14C-005",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14c_006",
+      "nombre": "Aula 14C-006",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14c_007",
+      "nombre": "Aula 14C-007",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "banos_ed1_planta_baja",
+      "nombre": "Baño",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Servicio"
+    },
+    {
+      "id": "Asociacion_Estudiantes",
+      "nombre": "Asociación de Estudiantes",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Planta baja",
+      "bloque": "C",
+      "tipo": "Área académica"
+    },
+
+    
+
+    {
+      "id": "instituto_investigacion",
+      "nombre": "Instituto de Investigación",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "A",
+      "tipo": "Área académica"
+    },
+    {
+      "id": "coordinacion_investigacion",
+      "nombre": "Coordinación de Investigación",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "A",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "banos_ed1_Primer_piso",
+      "nombre": "Baño",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "A",
+      "tipo": "Servicio"
+    },
+    {
+      "id": "lab_comp_14a_101",
+      "nombre": "Laboratorio de Computación 14A-101",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "A",
+      "tipo": "Laboratorio"
+    },
+      {
+      "id": "biblioteca",
+      "nombre": "Biblioteca",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "A",
+      "tipo": "Área académica"
+    },
+    {
+      "id": "lab_comp_14b_101",
+      "nombre": "Laboratorio de Computación 14B-101",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "B",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "lab_comp_14b_103",
+      "nombre": "Laboratorio de Computación 14B-103",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "B",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "aula_postgrado",
+      "nombre": "Aula de Postgrado",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "B",
+      "tipo": "Aula"
+    },
+    {
+      "id": "lab_comp_14c_102",
+      "nombre": "Laboratorio de Computación 14C-102",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "C",
+      "tipo": "Laboratorio"
+    },
+     {
+      "id": "lab_comp_14c_101",
+      "nombre": "Laboratorio de Computación 14C-101",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "C",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "aula_14c_101",
+      "nombre": "Aula 14C-101",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14c_102",
+      "nombre": "Aula 14C-102",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14c_103",
+      "nombre": "Aula 14C-103",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "sala_profesores_sistemas",
+      "nombre": "Sala de Profesores de Sistemas",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "C",
+      "tipo": "Área académica"
+    },
+    {
+      "id": "direccion_carrera_sistemas",
+      "nombre": "Dirección de la Carrera de Sistemas",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "C",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "vinculacion_sociedad",
+      "nombre": "Departamento de Vinculación con la Sociedad",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Primer piso",
+      "bloque": "C",
+      "tipo": "Oficina administrativa"
+    },
+
+    
+
+    {
+      "id": "direccion_telematica",
+      "nombre": "Dirección de Telemática",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "A",
+      "tipo": "Oficina administrativa"
+    },
+    {
+      "id": "lab_comp_14a_201",
+      "nombre": "Laboratorio de Computación 14A-201",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "A",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "lab_comp_14a_202",
+      "nombre": "Laboratorio de Computación 14A-202",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "A",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "aula_14a_201",
+      "nombre": "Aula 14A-201",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "A",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14a_203",
+      "nombre": "Aula 14A-203",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "A",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14a_205",
+      "nombre": "Aula 14A-205",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "A",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14a_206",
+      "nombre": "Aula 14A-206",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "A",
+      "tipo": "Aula"
+    },
+    {
+      "id": "sala_profesores_telematica",
+      "nombre": "Sala de Profesores Telematica",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "A",
+      "tipo": "Área académica"
+    },
+    {
+      "id": "aula_14b_202",
+      "nombre": "Aula 14B-202",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "B",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14b_201",
+      "nombre": "Aula 14B-201",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "B",
+      "tipo": "Aula"
+    },
+    {
+      "id": "lab_comp_14b_201",
+      "nombre": "Laboratorio de Computación 14B-201",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "B",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "lab_comp_14b_202",
+      "nombre": "Laboratorio de Computación 14B-202",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "B",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "aula_14c_201",
+      "nombre": "Aula 14C-201",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14c_203",
+      "nombre": "Aula 14C-203",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "C",
+      "tipo": "Aula"
+    },
+    {
+      "id": "lab_comp_14b_201",
+      "nombre": "Laboratorio de Computación 14B-201",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "C",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "lab_comp_14b_204",
+      "nombre": "Laboratorio de Computación 14B-204",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "C",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": "banos_ed1_segundo_piso",
+      "nombre": "Baño",
+      "edificio": "Edificio 1 (Telemática y Sistemas)",
+      "piso": "Segundo piso",
+      "bloque": "C",
+      "tipo": "Servicio"
+    },
+
+
+
+
+
+
+
+    {
+      "id": "banos_ed2_planta_baja",
+      "nombre": "Baño",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Planta baja",
+      "bloque": "D",
+      "tipo": "Servicio"
+    },
+    {
+      "id": "aula_14d_001",
+      "nombre": "Aula 14D-001",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Planta baja",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_002",
+      "nombre": "Aula 14D-002",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Planta baja",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_003",
+      "nombre": "Aula 14D-003",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Planta baja",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_004",
+      "nombre": "Aula 14D-004",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Planta baja",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_005",
+      "nombre": "Aula 14D-005",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Planta baja",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_006",
+      "nombre": "Aula 14D-006",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Planta baja",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_007",
+      "nombre": "Aula 14D-007",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Planta baja",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_008",
+      "nombre": "Aula 14D-008",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Planta baja",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_101",
+      "nombre": "Aula 14D-101",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Primer piso",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_102",
+      "nombre": "Aula 14D-102",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Primer piso",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_103",
+      "nombre": "Aula 14D-103",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Primer piso",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_104",
+      "nombre": "Aula 14D-104",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Primer piso",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_105",
+      "nombre": "Aula 14D-105",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Primer piso",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_106",
+      "nombre": "Aula 14D-106",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Primer piso",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_107",
+      "nombre": "Aula 14D-107",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Primer piso",
+      "bloque": "D",
+      "tipo": "Aula"
+    },
+    {
+      "id": "aula_14d_108",
+      "nombre": "Aula 14D-108",
+      "edificio": "Edificio 2 (Industrial)",
+      "piso": "Primer piso",
+      "bloque": "D",
+      "tipo": "Aula"
+    }
+  ]
+}
+
